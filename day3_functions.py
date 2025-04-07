@@ -17,3 +17,8 @@ print(calculate_area(30,30))
 print(is_even(56))
 print(is_even(23))
 
+import my_math as m
+
+print(m.square(45))
+print(m.circle(7))
+print(m.triangle(20,30))
